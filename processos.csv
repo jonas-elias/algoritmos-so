@@ -1,0 +1,6 @@
+id_processo,tempo_cheg,temp_CPU,priori
+1,0,10,3
+2,1,1,1
+3,2,2,4
+4,4,1,5
+5,5,5,2
