@@ -1,0 +1,5 @@
+id_processo,tempo_chegada,tempo_cpu,prioridade
+1,0,17,3
+2,4,14,4
+3,3,5,2
+4,0,18,5
